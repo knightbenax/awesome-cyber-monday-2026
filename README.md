@@ -1,6 +1,6 @@
 # Awesome Cyber Monday 2025 🎉
 
-> A curated list of the best Cyber Monday 2025 deals for developers, designers, and tech enthusiasts.
+> A curated list of the best Cyber Monday 2026 deals for developers, designers, and tech enthusiasts.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -8,9 +8,9 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 ## 📅 Important Dates
 
-- **Black Friday**: November 28, 2025
-- **Cyber Monday**: December 1, 2025
-- **Cyber Week**: November 28 - December 4, 2025
+- **Black Friday**: November 28, 2026
+- **Cyber Monday**: December 1, 2026
+- **Cyber Week**: November 28 - December 4, 2026
 
 ## 🎯 Contents
 
